@@ -18,7 +18,7 @@
 
 ## About Me
 
-- 🔭 Currently building **Python & CLI Projects**
+- 🔭 Currently building **Python & Projects**
 - 🌱 Learning **Backend · Automation · Developer Tools**
 - 🎯 Goal: Write cleaner code, ship more things
 - ⚡ I fix bugs more than I write code — and I'm okay with that
