@@ -2,8 +2,6 @@
   <img src="banner.png" width="800" alt="banner" />
 </p>
 
-<h1 align="center">Hi, I'm Yossapon 👋</h1>
-
 <p align="center">
   Python Developer · Learning every day
 </p>
