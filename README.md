@@ -14,8 +14,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 - 🔭 Currently building **Python & Projects**
@@ -23,7 +21,6 @@
 - 🎯 Goal: Write cleaner code, ship more things
 - ⚡ I fix bugs more than I write code — and I'm okay with that
 
----
 
 ## Tech Stack
 
@@ -39,9 +36,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-
-
----
 
 ## GitHub Stats
 
