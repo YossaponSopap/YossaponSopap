@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## About Me
+## 🎯 About Me
 
 - 🔭 Currently building **Python & Projects**
 - 🌱 Learning **Backend · Automation · Developer Tools**
@@ -23,7 +23,7 @@
 
 <br>
 
-## Tech Stack
+## 🧰 Tech Stack
 
 **Languages**
 
@@ -40,7 +40,7 @@
 
 <br>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YossaponSopap&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
@@ -51,6 +51,13 @@
   <img src="https://streak-stats.demolab.com?user=YossaponSopap&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
+
+## 🍵 Support / Donate 
+
+If you find my work useful, feel free to support me!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A61W9EKE)
+
 
 > *"Small progress is still progress."*
