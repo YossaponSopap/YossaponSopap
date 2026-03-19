@@ -19,7 +19,8 @@
 - 🔭 Currently building projects with **Python**
 - 🌱 Learning **Backend · Automation · Machine Learning**
 - 🤖 Interested in **AI · Data · Developer Tools**
-- 🎯 Goal: Build things that work behind the scenes
+- 🎯 Goal: Work behind the scenes, let the data do the talking
+- 🎮 Also a **Gaming YouTuber** & creative with **Canva · DaVinci Resolve**
 - ⚡ I fix bugs more than I write code — and I'm okay with that
 
 <br>
@@ -43,6 +44,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+<br>
+
+## 🎨 Content Creation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white" />
+</p>
 
 <br>
 
