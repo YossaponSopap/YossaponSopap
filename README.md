@@ -36,6 +36,7 @@
 **Libraries**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Numpy-013243?logo=pandas&logoColor=white)
 
 **Tools & Platforms**
 
@@ -48,12 +49,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YossaponSopap&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YossaponSopap&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YossaponSopap&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YossaponSopap&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YossaponSopap&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YossaponSopap&theme=dark&hide_border=true" />
 </p>
 
 <br>
