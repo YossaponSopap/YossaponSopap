@@ -2,13 +2,18 @@
   <img src="banner-new.png" width="800" alt="banner" />
 </p>
 
-<h1 align="center">Hi, I'm Yossapon 👋</h1>
-<p align="center">Python Developer • Backend • Automation • Never stop Learning</p>
+<p align="center">
+  <strong style="font-size: 32px;">Hi, I'm Yossapon 👋</strong>
+</p>
+
+<p align="center">Python Developer • Backend • Automation</p>
+
 <p align="center">
   <a href="https://github.com/YossaponSopap">
     <img src="https://img.shields.io/badge/GitHub-YossaponSopap-181717?logo=github&logoColor=white" />
   </a>
 </p>
+
 
 
 ## 🎯 About Me
