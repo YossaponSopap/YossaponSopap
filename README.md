@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="800" alt="banner" />
+  <img src="banner-new.png" width="800" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Yossapon 👋</h1>
