@@ -29,17 +29,21 @@
 
 **Languages & Web**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css" />
 </p>
 
 **Frameworks & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,sqlite" />
+  <img src="https://skillicons.dev/icons?i=flask,express,sqlite" />
 </p>
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,npm,figma" />
+  
+</p>
+<p>
+  <img src="https://img.shields.io/badge/googleappsscript-4285F4?logo=googleappsscript&logoColor=white" />
 </p>
 
 **Data Tools**
