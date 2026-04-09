@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Yossapon 👋</h1>
-<p align="center">Python Developer • Backend • Automation • Learning every day</p>
+<p align="center">Python Developer • Backend • Automation • Never stop Learning</p>
 <p align="center">
   <a href="https://github.com/YossaponSopap">
     <img src="https://img.shields.io/badge/GitHub-YossaponSopap-181717?logo=github&logoColor=white" />
