@@ -36,6 +36,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=flask,express,sqlite" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+</p>
 
 **Tools**
 <p>
