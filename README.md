@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 50px;">Hi, I'm Yossapon 👋</strong>
+  <strong style="font-size: 50px;">Hi, I'm Yossapon </strong>
 </p>
 
 <p align="center">Python Developer • Backend • Automation</p>
@@ -16,7 +16,7 @@
 
 
 
-## 🎯 About Me
+## 🎯 ABOUT ME
 - Currently building projects with **Python**
 - Learning **Backend, Automation, and Machine Learning** step by step
 - Interested in **AI, Data, and Developer Tools**
@@ -25,7 +25,7 @@
 
 <br>
 
-## 🧰 Tech Stack
+## 🧰 TECH STACK
 
 ### <<< Languages & Web >>>
 
@@ -67,7 +67,7 @@
 
 <br>
 
-## 📌 Current Projects
+## 📌 CURRENT PROJECTS
 
 - **BrewFlow**  
   A drink recipe manager web app built with **Flask** and **SQLite**
@@ -80,7 +80,7 @@
 
 <br>
 
-## 🍵 Support
+## 🍵 SUPPORT
 
 If you like my work and want to support my learning journey, you can buy me a tea here:
 
