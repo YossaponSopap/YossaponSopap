@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 50px;">Hi, I'm Yossapon </strong>
+  <strong style="font-size: 50px;">Hi, I'm Yossapon 😎 </strong>
 </p>
 
 <p align="center">Python Developer • Backend • Automation</p>
