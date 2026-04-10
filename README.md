@@ -28,6 +28,8 @@
 ## 🧰 Tech Stack
 
 **Languages & Web**
+### 🌐 Languages & Web
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css" />
 </p>
@@ -56,7 +58,8 @@
 
 <br>
 
-## <span style="color:a78bfa; border-bottom: 2px solid a78bfa; padding-bottom: 4px;">📊 Data Tools</span>
+**Data Tools**
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
