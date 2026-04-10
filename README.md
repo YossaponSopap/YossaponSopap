@@ -32,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css" />
 </p>
 
+<br>
+
 **Frameworks & Database**
 <p>
   <img src="https://skillicons.dev/icons?i=flask,express,discordjs,sqlite" />
@@ -39,6 +41,8 @@
 <p>
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 </p>
+
+<br>
 
 **Tools & AI**
 <p>
@@ -49,6 +53,8 @@
   <img src="https://img.shields.io/badge/googleappsscript-4285F4?logo=googleappsscript&logoColor=white" />
   <img src="https://img.shields.io/badge/claude-D97757?logo=claude&logoColor=white" />
 </p>
+
+<br>
 
 **Data Tools**
 <p>
