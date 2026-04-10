@@ -27,7 +27,7 @@
 
 ## 🧰 Tech Stack
 
-### Languages & Web
+### <<< Languages & Web >>>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css" />
@@ -35,7 +35,7 @@
 
 <br>
 
-### Frameworks & Database
+### <<< Frameworks & Database >>>
 <p>
   <img src="https://skillicons.dev/icons?i=flask,express,discordjs,sqlite" />
 </p>
@@ -45,7 +45,7 @@
 
 <br>
 
-### Tools & AI
+### <<< Tools & AI >>> 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,npm,figma,discord" />
 
@@ -57,7 +57,7 @@
 
 <br>
 
-### Data Tools
+### <<< Data Tools >>>
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
