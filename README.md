@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=flask,express,discordjs,sqlite" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 <br>
@@ -50,17 +50,17 @@
 
 </p>
 <p>
-  <img src="https://img.shields.io/badge/googleappsscript-4285F4?logo=googleappsscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/claude-D97757?logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
 <br>
 
 **Data Tools**
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 <br>
