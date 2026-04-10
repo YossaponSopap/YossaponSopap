@@ -34,7 +34,7 @@
 
 **Frameworks & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,express,sqlite" />
+  <img src="https://skillicons.dev/icons?i=flask,express,discordjs,sqlite" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?logo=streamlit&logoColor=white" />
@@ -42,7 +42,7 @@
 
 **Tools & AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,npm,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,npm,figma,discord" />
 
 </p>
 <p>
