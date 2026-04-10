@@ -40,13 +40,14 @@
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 </p>
 
-**Tools**
+**Tools & AI**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,npm,figma" />
-  
+
 </p>
 <p>
   <img src="https://img.shields.io/badge/googleappsscript-4285F4?logo=googleappsscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/claude-D97757?logo=claude&logoColor=white" />
 </p>
 
 **Data Tools**
