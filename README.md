@@ -53,6 +53,7 @@
 <p>
   <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
   <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 <br>
