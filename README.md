@@ -37,7 +37,7 @@
 
 ### <<< Frameworks & Database >>>
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,express,discordjs,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=flask,express,discordjs,sqlite,postgres,supabase,vue" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
