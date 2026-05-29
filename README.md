@@ -30,26 +30,45 @@
 ### <<< Languages & Web >>>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 <br>
 
-### <<< Frameworks & Database >>>
+### <<< Frontend >>>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,express,discordjs,sqlite,postgres,supabase,vue" />
+  <img src="https://skillicons.dev/icons?i=vue" />
 </p>
+
+<br>
+
+### <<< Backend & Database >>>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,express,discordjs,sqlite,postgres,supabase" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 <br>
 
-### <<< Tools & AI >>> 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,npm,figma,discord" />
+### <<< DevOps & Deployment >>>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,netlify" />
 </p>
+
+<br>
+
+### <<< Tools & AI >>>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,discord" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
   <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
