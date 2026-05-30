@@ -14,8 +14,6 @@
   </a>
 </p>
 
-
-
 ## 🎯 ABOUT ME
 - Currently building projects with **Python**
 - Learning **Backend, Automation, and Machine Learning** step by step
@@ -25,78 +23,26 @@
 
 <br>
 
-## 🧰 TECH STACK
+## ⚡ Built & Deployed
 
-### <<< Languages & Web >>>
+### Commission System
+Artist commission management site with queue tracking and admin dashboard.
+- **Live:** [your-link-here](#)
+- **Tech:** Vue 3 · Supabase
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+---
 
-<br>
-
-### <<< Frontend >>>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vue" />
-</p>
-
-<br>
-
-### <<< Backend & Database >>>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,express,discordjs,sqlite,postgres,supabase" />
-</p>
-
-<p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,vue,nodejs,flask,express,discordjs,sqlite,postgres,supabase,git,github,npm,netlify,vscode,figma,discord" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-<br>
-
-### <<< DevOps & Deployment >>>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,netlify" />
-</p>
-
-<br>
-
-### <<< Tools & AI >>>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,discord" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
   <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-
-<br>
-
-### <<< Data Tools >>>
-
-<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-<br>
-
-## 📌 CURRENT PROJECTS
-
-- **BrewFlow**  
-  A drink recipe manager web app built with **Flask** and **SQLite**
-
-- **Python Learning Projects**  
-  Focused on backend logic, automation, and problem-solving practice
-
-- **Frontend UI Practice**  
-  Exploring cleaner layouts and better user experience with **HTML, CSS, and JavaScript**
+</div>
 
 <br>
 
