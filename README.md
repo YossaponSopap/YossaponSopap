@@ -27,7 +27,7 @@
 
 ### Commission System
 Artist commission management site with queue tracking and admin dashboard.
-- **Live:** [https://vrdeve.netlify.app/](#)
+- **Live:** https://vrdeve.netlify.app/
 - **Tech:** Vue 3 · Supabase
 
 <br>
